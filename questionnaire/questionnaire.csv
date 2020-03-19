@@ -1,0 +1,91 @@
+Timestamp,WHERE does your app use the getInstalledApplications() or getInstalledPackages() APIs?,WHY does your app use the getInstalledApplications() or getInstalledPackages() APIs?,Do you want to add any comments relevant for this study?,Email address
+18/06/2019 18:51:11,In core functionalities of the app,"We require a list of installed apps for two reasons.  One is to launch other apps, which is core functionality.  The other is so the user can select which apps they want our app to work in, or not. Note that our app is an accessibility service, so it is always active by default.",,asegaert@gmail.com
+18/06/2019 18:56:32,In core functionalities of the app,The app is created on www.seattleclouds.com which is a drag and drop app builder. contact them and ask them personally why they include this functionality.,The app is created on www.seattleclouds.com which is a drag and drop app builder. contact them and ask them personally why they include this functionality.,imbawaapps@gmail.com
+18/06/2019 19:04:40,They are not used at all,"Don't know, it is on one of my libraries but doesn't seem like I use it anymore.",,webvideo@instantbits.com
+18/06/2019 19:12:34,In core functionalities of the app,"Work Log uses this API to check if the ""Work Log Pro"" (the upgrade app) is installed, which unlocks all of the premium features",This is an outdated method of verifying upgrades and I'm transitioning to a new one,ARforAndroid@gmail.com
+18/06/2019 19:45:52,In core functionalities of the app,To know whether specific apps are installed (like download managers),,arnaud@geometry.ee
+18/06/2019 20:33:11,In core functionalities of the app,"At our apps we have an internal ads service, which show ads for other applications written by our company, in order to show to the user ads for application that arent installed at his device, we use this api, this info isnt saved or transferred. Just decide weither show the application Ad or not.",There is other applications i use this api to check if facebook/instigram/whatsapo just to enable sharing for those apps.,smabed@gmail.com
+18/06/2019 20:46:13,In app functionality that is not core,"We have a few apps that can assist each other, and we want to test which of our apps are installed to show the proper options",,
+18/06/2019 20:47:05,In core functionalities of the app,To List Installed Applications ,,
+18/06/2019 20:51:49,In core functionalities of the app,Psiphon Pro is a VPN app.We use getInstalledPackages() call to build a list of installed apps that have internet permission in order to provide users with the UI that allows them to exclude these apps from VPN routing.,Source code for the code in question: https://bitbucket.org/psiphon/psiphon-circumvention-system/src/android-psiphon-pro/Android/app/src/main/java/com/psiphon3/psiphonlibrary/InstalledAppsMultiSelectListPreference.java,e.fryntov@psiphon.ca
+18/06/2019 21:06:53,I didn't know it was in there,We aren't using it. Third-party API? If you can tell me which one I'll remove it.,,elia@infinitysw.com
+18/06/2019 21:30:36,In core functionalities of the app,The app tries to list battery usage for all apps. For that it needs a list of all apps.,,
+18/06/2019 21:42:03,In core functionalities of the app,Need list of apps for launcher,,
+18/06/2019 21:42:15,In a third-party library,Didn't know about that. Assume it's Facebook SDK which is included,I am not requesting any information about other apps. So it must be a third party SDK. In your analysis it must be possible to see from which package the call is made.,gillis.haasnoot@gmail.com
+18/06/2019 21:45:14,email marked as spam,link suspect,i dont care about your survey,i.kanj@student.vu.nl
+18/06/2019 21:49:20,In core functionalities of the app,To list installed application in user space package manager.,,
+18/06/2019 21:57:10,They are not used at all,My app doesn't use this call.,,
+18/06/2019 21:59:17,In core functionalities of the app,My app is a launcher. There's no way to have it working without knowing which apps are installed on the device.,,franzbianconero@gmail.com
+18/06/2019 22:02:07,In a third-party library,Not sure. It's part of OpenVPN: https://github.com/vmlinz/ics-openvpn-embedded/blob/master/ics-openvpn-complete/src/main/java/de/blinkt/openvpn/fragments/Settings_Allowed_Apps.java,,bert@famroos.nu
+18/06/2019 22:37:29,In core functionalities of the app,GetInstalledPackages () API was used to display a list of actual installed applications in android device throught file manager app being developed.,,matus.kokinda@student.tuke.sk
+18/06/2019 22:59:57,In core functionalities of the app,Owasp Seraphimdroid is a security and anti-malware app. In order to test whether some app is malicious we need to collect names of installed packages. Afterwards we run packages through our static analysis algorithm. For covering these packages is used getInstalledPackages function,,nikola.milosevic86@gmail.com
+18/06/2019 23:03:33,In core functionalities of the app,"We use this functionality to provide further customization for users. Mainly, we allow our users to specify when our application should and shouldn't be used, by locally whitelisting a subset of their installed applications.",,raed@tunnelbear.com
+18/06/2019 23:05:46,In core functionalities of the app,Because the app will show the app names and app icons in the listview. It's the key feature to show the app which shows a toast.,Where do you get my email address? I don't show the mail you send me within the play store page.,peter.siegmund@gmail.com
+18/06/2019 23:05:53,In core functionalities of the app,We use it to determine if they have instagram/twitter/facebook etc installed so we can show specific buttons for those apps to allow them to directly share pictures to those apps.,,
+18/06/2019 23:20:37,In core functionalities of the app,Get a list of allowed/disallowed apps for the VPNService allow/disallow apps for the user to choose from,,
+18/06/2019 23:41:06,I’m not sure that old app use the method,I need to find the code for check this,Which tool you use for scan the app?,pichu@tih.tw
+18/06/2019 23:54:24,In core functionalities of the app,It is a launcher,,
+19/06/2019 00:46:43,In a third-party library,We use Unity Ads which seems to use getInstalledPackages.,We don't know why Unity Ads is using it although their SDK is open source.,
+19/06/2019 03:25:46,In core functionalities of the app,It's is a Launcher and needs to installed apps to show the user so they can launch them.,,nathan.behary@gmail.com
+19/06/2019 03:31:52,In core functionalities of the app,"This is an android launcher app, we need to use this API otherwise our app won't work.",,
+19/06/2019 07:05:02,In a third-party library,The app doesn't use any of these methods. These are referenced in google.ads library and used there for some reason.,,
+19/06/2019 07:11:43,In a third-party library,There are no direct calls to getInstalledApplications and getInstalledPackages from the project source code.,"Perhaps the Google VR library (com.google.vr: sdk-base) does this in order to detect Google VR Services or Cardboard apps (packages) on the device. This is necessary to start the VR headset configuration activity. 
+Perhaps the Android SDK does this in order to detect apps (packages) suitable for handling ""Share File"" intents.
+Perhaps the implementation of PackageManager.getPackageInfo(String, int) does this in order to iterate, find and return PackageInfo of our app.",spectrolizer@aicore-software.com
+19/06/2019 09:02:00,In a third-party library,ads sdk's,,
+19/06/2019 09:42:14,In our own framework,We don't at the moment.,,omegadestroya@gmail.com
+19/06/2019 11:12:21,In core functionalities of the app,"For use with built-in application manager, where end user can backup/uninstall apps conveniently",,
+19/06/2019 11:26:55,"I  have no idea, I was just a translator",See my answer above.,Nope.,
+19/06/2019 11:35:06,In a third-party library,It is part of a older version of Google Play Services multiplayer SDK.,,
+19/06/2019 12:04:18,In a third-party library,This is referenced by a older version of Google's official Google Play services library for Unity games,"
+It is Google's GPGS. Following files have call for the mentioned API
+
+PlatformUtils.cs
+NearbyConnectionsManager.cs
+
+GPGS Version - 0.9.50",
+19/06/2019 12:20:24,In core functionalities of the app,Cross promoting ads,,
+19/06/2019 12:57:39,In core functionalities of the app,"to get the list of installed applications, which is later used to list and manage them in the firewall settings",,
+19/06/2019 14:03:35,In core functionalities of the app,for metrics,,
+19/06/2019 15:30:08,In core functionalities of the app,"file manager show list of installed application, for copy / share .apk file",,zorg.rhrd@gmail.com
+19/06/2019 16:09:20,In core functionalities of the app,"Google is using this app to test various other APIs while developing Android itself, and to demo the usage of these APIs to third parties who might want to use them. Some of these APIs take an application as input, e.g. this one: https://developer.android.com/reference/android/app/admin/DevicePolicyManager.html#setUninstallBlocked(android.content.ComponentName,%20java.lang.String,%20boolean)
+
+getInstalledApplications is used to show a list of all applications to the user, who  then chooses one of them, which will be used as input to the API under test.",,phweiss@google.com
+19/06/2019 17:39:20,In a third-party library,"I recently found out about this call through the third party API, SafeDK.  SafeDK reported that the InMobi library was polling the device for installed applications.  This is NOT OK with me and I just uninstalled the InMobi library from all of my Android apps.  I don't believe this call is needed or fair to users.  I've notified InMobi that it's not OK to secretly poll devices for installed applications.",I don't think so.,wking@me.com
+19/06/2019 19:36:55,In core functionalities of the app,"My app runs ""on top"" of other applications on the phone as a tool/utility to display relevant metadata. It uses ""getInstalledApplications()"" to show a list of apps in the settings menu that the user can configure options for.",,18jafenn90@gmail.com
+20/06/2019 05:06:46,In core functionalities of the app,Substratum aggregates theme packages and provides functionality to apply them to your system. For this we need to iterate through all packages to find themes and then iterate through them again to identify which ones have overlays in the theme.,,
+20/06/2019 11:10:52,In a third-party library,"I don’t know, probaly ads library uses it for some statistics",,artas182x@gmail.com
+20/06/2019 11:26:00,In core functionalities of the app,It allows user to select which applications' notifications to process (send to FitBit),,
+20/06/2019 14:28:02,In core functionalities of the app,"I wanted to create a main application who is able to control others applications (created by diabhelp).
+
+The goal was that these aside app (without launcher) can be download from the app store and benefit of all the app store feature's : comment, note, update separetely each add'ons of the Diabhelp application.
+
+Then i needed to list the package installed, identify the one who belong to diabhelp and manage them (launch, inject datas, stop etc..)",I would like to have the result of the study best regards Damien www.damiendev.tech,pollet.dam@gmail.com
+20/06/2019 17:21:58,In core functionalities of the app,"To check installed apps, for example to locate the browser when we need to display a URL",ZXING integrates with some other apps on the phone & uses this API to check for them.,
+20/06/2019 19:39:41,In core functionalities of the app,My app is a launcher. It shows you a list of your apps and lets you open them.,My app is List Launcher: https://github.com/andreyrd/ListLauncher,andrey@andreyrd.com
+21/06/2019 10:41:29,They are not used at all,Was used once to detect if a link could be shared with a third party app. But is removed now,,
+21/06/2019 10:43:16,In a third-party library,"I don't know, might be one of the analytics library that we use",,
+01/07/2019 12:20:24,In core functionalities of the app,To provide the accessible tiled view of all the apps.,,saurabh2590@gmail.com
+01/07/2019 12:31:25,They are not used at all,not used,,
+01/07/2019 12:35:16,They are not used at all,It does not use above api or class,As you stated that almost every app uses this api  i as an android developer have not seen it;,
+01/07/2019 13:19:16,In core functionalities of the app,Our app is a Custom Launcher application,,
+01/07/2019 14:49:11,They are not used at all,.,Hi. I think my case is not good sample for your study. Since my contribution on github project has no relation with your targeted API at all. Thanks.,
+01/07/2019 16:06:51,In core functionalities of the app,"FoxIT was a small Project we did for our computer science course. The application was designed to teach users about privacy relevant behavior and analyse their change in attitude.
+One major part was to scan the users smartphone for their Apps und Settings to give Feedback about their behavior. 
+So we used getInstalledApplications() to display all installed Applications and evaluated their quality by checking the permissions they need.   ","A fellow student of mine is still developing the App for our department. If you have any further questions he is willing to help.
+noah.j.schlegel@web.de",trs3eich@outlook.de
+01/07/2019 16:44:11,In core functionalities of the app,"My app is a platform that supports other apps as plugins, so it needs to find these other apps installed.",,
+01/07/2019 17:45:36,In core functionalities of the app,To know application usage,,
+02/07/2019 00:14:03,In core functionalities of the app,For AIDL service discovery to provide plug-in functionality.,,pas.anddev@gmail.com
+02/07/2019 04:48:05,In core functionalities of the app,The only usage is to check if other apps that works with our app are installed.,Could we receive the report when it is done? Thank you :),hyunbinkim1021@gmail.com
+02/07/2019 10:50:08,They are not used at all,I did not use it.,,
+02/07/2019 11:08:40,In core functionalities of the app,"We propose within some part of the application an experience based on the application installed on the device. For example, within our application, we propose to add a password for Skype if you have Skype installed on your device.",,
+02/07/2019 13:33:44,In core functionalities of the app,inventory of applications in a device,,ml-flyvemdm@teclib.com
+03/07/2019 02:16:10,In a third-party library,We were not aware that it was used at all. This API is likely called from an advertising library or from something like Google Play Game Services. We use a variety of advertising SDKs within our game app.,,stu@pinestreetcodeworks.com
+03/07/2019 14:45:29,In core functionalities of the app,To know if another of my apps (that is required or really important) is already installed or not.,,mathieu.mea@gmail.com
+04/07/2019 12:38:33,In core functionalities of the app,to convert packages names to app name,,dev@uniperson.com
+04/07/2019 18:34:45,In core functionalities of the app,To list application to show notifications for,,deboeck.jo@gmail.com
+05/07/2019 21:15:57,In core functionalities of the app,To show the users a list of applications that use a specific feature defined in the AndroidManifest of other APKs,If Google deprecates this API I'll fucking lose my shit. ,
+28/08/2019 23:48:11,In core functionalities of the app,"Two case: Application Info: app destined to techies to know more about characteristics of an android app installed on theire phone.
+Solid Launcher: Alternative home launcher, use of package manager must be clear..",,
+09/10/2019 12:27:58,In core functionalities of the app,"list up application, which re-install application",,kiyofumi.kondoh+github@gmail.com
