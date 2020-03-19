@@ -60,7 +60,7 @@ dataset
 
 ### Scripts
 ---
-Usage of the scripts is explained in README.md file inside the scripts folder.
+Usage of the scripts is explained in [README](https://github.com/S2-group/mobilesoft-2020-iam-replication-package/blob/master/scripts/README.md) file inside the scripts folder.
 
 ### Libraries classification
 ---
