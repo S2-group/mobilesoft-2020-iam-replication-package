@@ -1,0 +1,155 @@
+Library,Occurence,Percentage,Researcher 1,Researcher 2,Agreement,Final
+com.unity3d.ads.api,815,"10,81%",Advertising,Advertising,1,Advertising
+com.ironsource.environment,310,"4,11%",Advertising,Advertising,1,Advertising
+com.ironsource.sdk.controller,279,"3,70%",Advertising,Advertising,1,Advertising
+com.unity3d.services.core.api,234,"3,10%",Advertising,Advertising,1,Advertising
+com.google.ads.conversiontracking,175,"2,32%",Advertising,Advertising,1,Advertising
+com.appnext.base.b,158,"2,10%",Advertising,Advertising,1,Advertising
+com.pollfish.f,127,"1,68%",Analytics,Advertising,0,Analytics
+com.yandex.metrica.impl,127,"1,68%",Analytics,Analytics,1,Analytics
+com.tapjoy,125,"1,66%",Advertising,Advertising,1,Advertising
+com.heyzap.house,117,"1,55%",Advertising,Advertising,1,Advertising
+com.heyzap.internal,117,"1,55%",Advertising,Advertising,1,Advertising
+com.appodeal.ads,110,"1,46%",Advertising,Advertising,1,Advertising
+com.onesignal,97,"1,29%",Utils,Utils,1,Utils
+com.unity3d.ads.android.data,88,"1,17%",Advertising,Advertising,1,Advertising
+com.appodeal.ads.f,73,"0,97%",Advertising,Advertising,1,Advertising
+c.m.x.a.am48,70,"0,93%",?,?,1,?
+hotchemi.android.rate,69,"0,92%",App promotion,App promotion,1,App promotion
+io.branch.referral,68,"0,90%",App promotion,App promotion,1,App promotion
+com.google.zxing.client.android.share,64,"0,85%",Utils,Utils,1,Utils
+org.onepf.oms.appstore,61,"0,81%",Utils,Utils,1,Utils
+com.startapp.android.publish.common,57,"0,76%",Advertising,Advertising,1,Advertising
+com.unity3d.ads2.api,54,"0,72%",Advertising,Advertising,1,Advertising
+com.cootek.usage,53,"0,70%",Advertising,Utils,0,Utils
+com.tutotoons.ane.AirTutoToons,52,"0,69%",Developer own lib,Developer own lib,1,Developer own lib
+com.my.target.core.parsers,50,"0,66%",Utils,Advertising,0,Advertising
+com.urbanairship.google,50,"0,66%",Analytics,Analytics,1,Analytics
+com.aerserv.sdk,43,"0,57%",Advertising,Advertising,1,Advertising
+com.appbrain.c,39,"0,52%",Advertising,Advertising,1,Advertising
+com.babybus.utils,38,"0,50%",Developer own lib,Developer own lib,1,Developer own lib
+com.alipay.sdk.util,38,"0,50%",Utils,Utils,1,Utils
+com.tencent.connect.auth,35,"0,46%",Utils,Utils,1,Utils
+com.yasirkula.unity,33,"0,44%",Utils,Utils,1,Utils
+com.aviary.android.feather.library.utils,30,"0,40%",Utils,Utils,1,Utils
+com.startapp.android.publish.i,29,"0,38%",Advertising,Advertising,1,Advertising
+com.mobvista.msdk.base.utils,29,"0,38%",Advertising,Advertising,1,Advertising
+com.ironsource.mobilcore,28,"0,37%",Advertising,Advertising,1,Advertising
+com.amber.lib.applive.util.apps,27,"0,36%",Utils,Utils,0,Utils
+com.apptentive.android.sdk.util,27,"0,36%",Analytics,Analytics,1,Analytics
+com.vungle.publisher,27,"0,36%",Advertising,Advertising,1,Advertising
+com.vungle.publisher.device.data,27,"0,36%",Advertising,Advertising,1,Advertising
+com.yandex.metrica,26,"0,34%",Analytics,Advertising,1,Analytics
+com.babybus.umeng,25,"0,33%",Developer own lib,Developer own lib,1,Developer own lib
+com.quantcast.measurement.service,24,"0,32%",Analytics,Analytics,1,Analytics
+com.blankj.utilcode.util,24,"0,32%",Utils,Utils,1,Utils
+com.wisesharksoftware.app_photoeditor,23,"0,31%",Utils,Utils,1,Utils
+com.google.vr.cardboard,23,"0,31%",Utils,Utils,1,Utils
+com.paypal.android.a,23,"0,31%",Utils,Utils,1,Utils
+com.safedk.android.internal.partials,23,"0,31%",Utils,Utils,1,Utils
+io.presage.finder,23,"0,31%",Advertising,Advertising,1,Advertising
+a.a.a,22,"0,29%",?,?,1,?
+cmn,22,"0,29%",?,?,1,?
+com.supersonicads.sdk.controller,22,"0,29%",Advertising,Advertising,1,Advertising
+com.chartboost.sdk,21,"0,28%",Advertising,Advertising,1,Advertising
+com.unity3d.ads.device,21,"0,28%",Advertising,Advertising,1,Advertising
+com.startapp.android.publish.j,20,"0,27%",Advertising,Advertising,1,Advertising
+c,19,"0,25%",?,?,1,?
+cn.jiguang.a.a.c,19,"0,25%",Advertising,Utils,0,Advertising
+com.cloudtech.ads.utils,19,"0,25%",Advertising,Advertising,1,Advertising
+com.threatmetrix.TrustDefenderMobile,19,"0,25%",Utils,Utils,1,Utils
+com.adtech.mobilesdk.publisher.compatibility,17,"0,23%",Advertising,Advertising,1,Advertising
+com.kikatech.theme,17,"0,23%",Developer own lib,Developer own lib,1,Developer own lib
+com.startapp.android.publish.h,17,"0,23%",Advertising,Advertising,1,Advertising
+com.adincube.sdk.util.b,17,"0,23%",Advertising,Advertising,1,Advertising
+com.mologiq.analytics,16,"0,21%",Advertising,Advertising,1,Advertising
+com.qisi.plugin.m,16,"0,21%",Developer own lib,Developer own lib,1,Developer own lib
+o,16,"0,21%",?,?,1,?
+im.delight.android.webview,16,"0,21%",Utils,Utils,1,Utils
+com.cmcm.utils,16,"0,21%",Advertising,Advertising,1,Advertising
+com.mobvista.msdk.base.controller,16,"0,21%",Advertising,Advertising,1,Advertising
+io.presage.,16,"0,21%",Analytics,Analytics,1,Analytics
+com.amber.lib.widget.status,15,"0,20%",Utils,Utils,0,Graphical library
+com.narvii.util.crashlytics,15,"0,20%",Developer own lib,Utils,0,Utils
+com.narvii.util,15,"0,20%",Developer own lib,Developer own lib,1,Developer own lib
+com.inmobi.commons.internal,15,"0,20%",Advertising,Advertising,1,Advertising
+com.amber.lib.store.utils,13,"0,17%",Utils,Utils,0,Utils
+com.unity3d.ads.android2.data,13,"0,17%",Advertising,Advertising,1,Advertising
+com.baidu.mobstat,13,"0,17%",?,Utils,0,Utils
+com.tappx.a.a.a.a.a,13,"0,17%",Advertising,Advertising,1,Advertising
+com.tencent.tauth,12,"0,16%",Utils,Game developer connection authentication library ?,1,Utils
+com.appbrain.a,12,"0,16%",Advertising,Advertising,1,Advertising
+com.mobvista.msdk.base.c,12,"0,16%",Advertising,Advertising,1,Advertising
+com.ihs.device.clean.junk.util,12,"0,16%",?,?,1,?
+com.microsoft.intune.mam.client.content.pm,11,"0,15%",Utils,Utils,1,Utils
+net.appcloudbox.common.config,11,"0,15%",Developer own lib,Developer own lib,1,Developer own lib
+com.psvplugins.priorityapp,11,"0,15%",Developer own lib,Developer own lib,1,Developer own lib
+kr.co.smartstudy.b,11,"0,15%",Developer own lib,Developer own lib,0,Developer own lib
+anywheresoftware.b4a.phone,11,"0,15%",Utils,Utils,1,Utils
+com.ironsource.a,11,"0,15%",Advertising,Advertising,1,Advertising
+io.presage.common.profig,11,"0,15%",Analytics,Analytics,1,Analytics
+net.coocent.android.xmlparser,10,"0,13%",Developer own lib,Developer own lib,1,Developer own lib
+com.tremorvideo.sdk.android.videoad,10,"0,13%",Advertising,Advertising,1,Advertising
+com.babybus.managers,10,"0,13%",Developer own lib,Developer own lib,1,Developer own lib
+com.alipay.sdk.j,10,"0,13%",Utils,Utils,1,Utils
+com.supersonic.environment,10,"0,13%",Advertising,Advertising,1,Advertising
+com.cs.bd.utils,10,"0,13%",?,?,1,?
+com.mintegral.msdk.base.controller,10,"0,13%",Advertising,Advertising,1,Advertising
+com.mintegral.msdk.base.utils,10,"0,13%",Advertising,Advertising,1,Advertising
+com.mintegral.msdk.c,10,"0,13%",Advertising,Advertising,1,Advertising
+com.iovation.mobile.android.details.a,9,"0,12%",Utils,Utils,1,Utils
+com.appboy.support,9,"0,12%",Analytics,Analytics,1,Analytics
+com.revmob.android,9,"0,12%",Advertising,Advertising,1,Advertising
+ru.mail.android.mytarget.core.parsers,9,"0,12%",Advertising,Developer own lib,0,Advertising
+com.cuebiq.cuebiqsdk.utils,9,"0,12%",Advertising,Analytics,0,Analytics
+com.tencent.mm.sdk.platformtools,9,"0,12%",Utils,Utils,0,Utils
+com.dianxinos.dxservice.a,9,"0,12%",Developer own lib,Developer own lib,0,Developer own lib
+e.w,9,"0,12%",?,?,1,?
+mobi.infolife.ezweather.widget.mul_store.utils,8,"0,11%",Developer utils,Developer utils,1,Developer utils
+com.bsoft.core,8,"0,11%",?,?,1,?
+com.amazon.identity.auth.device.framework,8,"0,11%",Utils,Utils,1,Utils
+cn.jpush.android.util,8,"0,11%",Utils,Utils,1,Utils
+hundred.five.tools.ads,8,"0,11%",Advertising,Advertising,1,Advertising
+com.droibit.android.customtabs.launcher,8,"0,11%",Utils,Utils,1,Utils
+com.jb.ga0.commerce.util,8,"0,11%",Utils,Utils,1,Utils
+com.babybus.h,8,"0,11%",Developer own lib,Developer own lib,1,Developer own lib
+com.ew.sdk.a,8,"0,11%",?,?,1,?
+com.ew.sdk.task.util,8,"0,11%",?,?,1,?
+com.cs.bd.commerce.util,8,"0,11%",?,?,1,?
+com.tencent.android.tpush.service.e,8,"0,11%",Utils,Utils,1,Utils
+com.amber.lib.common_library,7,"0,09%",Utils,Utils,1,Utils
+com.dsi.ant.plugins.antplus.pccbase,7,"0,09%",Utils,Utils,1,Utils
+com.skobbler.ngx.packages,7,"0,09%",Utils,Utils,1,Utils
+com.alipay.b.a.a.b,7,"0,09%",Utils,Utils,1,Utils
+com.am.utility.utils,7,"0,09%",?,?,1,?
+org.chromium.chrome.browser,7,"0,09%",Utils,Utils,1,Utils
+com.blankj.utilcode.utils,7,"0,09%",Utils,Utils,1,Utils
+com.android.launcher3.model,7,"0,09%",Utils,Utils,1,Utils
+com.qisi.plugin.utils,7,"0,09%",Utils,Utils,1,Utils
+bencoding.android.tools,7,"0,09%",Utils,Utils,1,Utils
+com.aps,7,"0,09%",Developer own lib,Developer own lib,1,Developer own lib
+com.outfit7.talkingfriends.offers,7,"0,09%",Developer own lib,Developer own lib,1,Developer own lib
+com.rsa.mobilesdk.sdk,6,"0,08%",Utils,Utils,1,Utils
+com.passportparking.mobile.pplibrary.widget,6,"0,08%",Utils,Utils,1,Utils
+com.cyou.elegant.data,6,"0,08%",?,Developer own lib,0,Developer own lib
+com.xvideostudio.videoeditor,6,"0,08%",Utils,Utils,1,Utils
+com.batch.android.d,6,"0,08%",Utils,Utils,1,Utils
+com.startapp.android.publish.f,6,"0,08%",Advertising,Advertising,1,Advertising
+com,6,"0,08%",?,?,1,?
+com.umeng.common.message,6,"0,08%",Advertising,Advertising,1,Advertising
+com.bandwidthx.library,6,"0,08%",Utils,Utils,1,Utils
+com.jiubang.commerce.utils,6,"0,08%",?,Utils,0,?
+com.a.a,6,"0,08%",?,?,1,?
+com.amber.amberutils,6,"0,08%",Utils,Developer own lib,0,Utils
+cn.sharesdk.framework,6,"0,08%",Utils,Utils,1,Utils
+com.umeng.common,6,"0,08%",Advertising,Advertising,1,Advertising
+com.babybus.g,6,"0,08%",Developer own lib,Developer own lib,1,Developer own lib
+com.babybus.plugin.googlead.b,6,"0,08%",Developer own lib,Advertising,0,Developer own lib
+com.igexin.push.core.a.a,6,"0,08%",Advertising,Advertising,1,Advertising
+com.igexin.push.core.a,6,"0,08%",Advertising,Advertising,1,Advertising
+com.igexin.push.core,6,"0,08%",Advertising,Advertising,1,Advertising
+com.babybus.bbmodule.system.jni.plugin.manager,6,"0,08%",Developer own lib,Developer own lib,1,Developer own lib
+io.presage.long,6,"0,08%",Analytics,Analytics,1,Analytics
+com.my.tracker.providers,6,"0,08%",Analytics,Analytics,1,Analytics
+com.adt.a,6,"0,08%",?,?,1,?
+com.unity3d.services.core.device,6,"0,08%",Advertising,Utils,0,Advertising
