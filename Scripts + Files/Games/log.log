@@ -1,5 +1,0 @@
-2019-04-21 22:35:42,065 - INFO - START. APKS TO DOWNLOAD: ALL
-2019-04-21 22:35:42,067 - INFO - CREATE DATASET BY CRITERIA: dex_date=(None, None), apk_size=(None, None), vt_detection=(None, None), markets={'play.google.com'}, pkg_name=None, sha256={'0986FCEDB7BBAF7CC9ED291BF9CAEFCE195E4D4BEC387EEDD317621131E5AF5A'}, sha1=None, md5=None
-2019-04-21 22:37:46,511 - INFO - DATASET HAS BEEN CREATED. 1 APKS SATISFY CRITERIA
-2019-04-21 22:37:46,536 - INFO - DOWNLOADING 1, number of threads 4
-2019-04-21 22:38:19,359 - INFO - SAVE METADATA ['sha256', 'pkg_name', 'apk_size', 'dex_date', 'markets']
