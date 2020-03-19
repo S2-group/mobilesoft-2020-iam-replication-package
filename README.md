@@ -8,7 +8,7 @@ This study has been designed, developed, and reported by the following investiga
 
 - Gian Luca Scoccia (DISIM, University of L’Aquila)
 - Ibrahim Kanj (Vrije Universiteit Amsterdam)
-- Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam)
+- [Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam)
 - Kaveh Razavi (Vrije Universiteit Amsterdam)
 
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
