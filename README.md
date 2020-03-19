@@ -6,10 +6,10 @@ This repository contains the replication package and dataset of the paper publis
 
 This study has been designed, developed, and reported by the following investigators:
 
-- [Gian Luca Scoccia] (DISIM, University of L’Aquila)
-- [Ibrahim Kanj] (Vrije Universiteit Amsterdam)
-- [Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam)
-- [Kaveh Razavi] (Vrije Universiteit Amsterdam)
+- Gian Luca Scoccia (DISIM, University of L’Aquila)
+- [Ibrahim Kanj (Vrije Universiteit Amsterdam)
+- Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam)
+- Kaveh Razavi (Vrije Universiteit Amsterdam)
 
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
