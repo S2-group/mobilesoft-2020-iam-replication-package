@@ -18,14 +18,13 @@ The full dataset including raw data, mining scripts, and analysis scripts produc
 If the dataset is helping your research, consider to cite it is as follows, thanks!
 
 ```
-@inproceedings{ICSE_SEIP_2020,
-  title={{How do you Architect your Robots? State of the Practice and Guidelines for ROS-based Systems}},
-  author={Ivano Malavolta and Grace Lewis and Bradley Schmerl and Patricia Lago and David Garlan},
-  booktitle = {Proceedings of the 42nd ACM/IEEE International Conference on Software Engineering},
+@inproceedings{MobileSoft2020,
+  title={{Leave my Apps Alone! A Study on how Android Developers Access Installed Apps on User’s Device}},
+  author={Gian Luca Scoccia and Ibrahim Kanj and Ivano Malavolta and Kaveh Razavi},
+  booktitle = {Proceedings of the 7th IEEE/ACM International Conference on Mobile Software Engineering and Systems},
   year = {2020},
   pages = {to appear},
-  numpages = {10},
-  url = {http://www.ivanomalavolta.com/files/papers/ICSE_SEIP_2020.pdf}
+  numpages = {12}
 }
 ```
 
@@ -35,9 +34,8 @@ If the dataset is helping your research, consider to cite it is as follows, than
 This replication package is structured as follows:
 
 ```
-malavolta
     .
-    |--- data_analysis/       		The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the R script for plotting the extracted data (see below).
+    |--- scripts/       		The data that has been extracted during the iterative content analysis and the thematic analysis phases, and the R script for plotting the extracted data (see below).
     |
     |--- dataset/             		The full dataset of ROS-based systems mined from GitHub, including also the Python scripts for rebuilding/updating the dataset and the raw data produced in all intermediate steps.
     |
