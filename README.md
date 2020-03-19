@@ -7,7 +7,7 @@ This repository contains the replication package and dataset of the paper publis
 This study has been designed, developed, and reported by the following investigators:
 
 - Gian Luca Scoccia (DISIM, University of L’Aquila)
-- [Ibrahim Kanj (Vrije Universiteit Amsterdam)
+- Ibrahim Kanj (Vrije Universiteit Amsterdam)
 - Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam)
 - Kaveh Razavi (Vrije Universiteit Amsterdam)
 
