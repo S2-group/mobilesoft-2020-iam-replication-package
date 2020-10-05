@@ -139,7 +139,7 @@ public class Application
     Fresco.initialize(getApplicationContext(), (ImagePipelineConfig)localObject);
     context = getApplicationContext();
     registerActivityLifecycleCallbacks(new MyLifecycleHandler());
-    Fabric.with(this, new Kit[] { new Twitter(new TwitterAuthConfig("***REMOVED***", "***REMOVED***")), new Crashlytics() });
+    Fabric.with(this, new Kit[] { new Twitter(new TwitterAuthConfig("3xoS8L4j7Z1zSxnRpvAswPBw9", "ETlGI2oGx9S4owZvRxJV8b9jwdaVWuMagCcyMGoUtY3OnTRcqL")), new Crashlytics() });
     if (getPackageName().contains("amazon"))
     {
       Constants.AMAZON_FEATURE = true;
